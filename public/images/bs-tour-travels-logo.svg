@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img" aria-labelledby="title desc">
+  <title id="title">BS Tour &amp; Travels</title>
+  <desc id="desc">Stylized navy and blue BS lettering with a sweeping underline and Tour &amp; Travels text.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0786c9"/>
+      <stop offset="1" stop-color="#0878c6"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c315f"/>
+      <stop offset="1" stop-color="#092451"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="300" fill="none"/>
+  <!-- Bold, italic letterforms inspired by the supplied mark -->
+  <path d="M205 34 L358 31 C412 30 436 50 426 78 C420 94 405 105 382 111 C412 117 427 136 417 157 C405 184 374 196 327 196 L142 196 L165 63 C169 45 184 35 205 34 Z M207 82 L200 105 L302 105 C326 105 339 99 342 90 C345 82 337 77 319 77 Z M193 137 L185 160 L307 160 C330 160 343 154 346 145 C349 137 339 132 320 132 Z" fill="url(#navy)" fill-rule="evenodd"/>
+  <path d="M468 32 L682 28 L649 70 L510 74 C490 75 480 82 480 91 C480 99 490 102 509 102 L596 102 C651 102 676 122 668 151 C660 181 624 197 567 197 L420 197 L448 158 L576 158 C598 158 610 152 612 143 C614 135 605 131 585 131 L499 131 C447 131 423 112 431 84 C439 54 451 39 468 32 Z" fill="url(#blue)"/>
+  <!-- Sweeping underline / swoosh -->
+  <path d="M70 207 C177 132 314 104 454 112 C521 116 574 130 624 151 C495 122 358 130 244 166 C173 188 116 211 70 207 Z" fill="url(#navy)"/>
+  <path d="M180 252 L725 252 L708 263 L164 263 Z" fill="url(#blue)"/>
+  <text x="410" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="900" letter-spacing="1.2" fill="#0b2856">TOUR &amp; TRAVELS</text>
+</svg>
