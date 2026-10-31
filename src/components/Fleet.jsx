@@ -44,10 +44,19 @@ const vehicles = [
     image: "/images/kia-carens.jpg",
     passengers: "Confirm capacity",
   },
+
+  {
+  name: "Tempo Traveller",
+  category: "Group Travel",
+  image: "/images/tempo-traveller.jpg",
+  capacity: "12–17 Passengers",
+  description: "Spacious and comfortable travel for family trips, group tours, and outstation journeys."
+},
+
 ];
 
 function Fleet() {
-  const whatsappNumber = "919999999999"; // Replace with the actual BS Travels WhatsApp number.
+  const whatsappNumber = "918296320731"; // Replace with the actual BS Travels WhatsApp number.
 
   const handleEnquiry = (vehicleName) => {
     const message = `Hello BS Travels! I would like to enquire about the ${vehicleName}. Please share the details and pricing.`;
