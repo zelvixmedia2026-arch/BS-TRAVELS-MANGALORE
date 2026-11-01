@@ -84,7 +84,7 @@ function Hero() {
               <FaArrowRight />
             </a>
 
-            <a href="tel:+919999999999" className="hero-secondary-btn">
+            <a href="tel:+918296320731" className="hero-secondary-btn">
               <FaPhoneAlt />
               Contact Us
             </a>
